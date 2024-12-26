@@ -1,0 +1,602 @@
+[
+    {
+        "topic": "Abdominal Pain",
+        "url": "https://www.healthline.com/health/abdominal-pain"
+    },
+    {
+        "topic": "Acne",
+        "url": "https://www.healthline.com/health/skin/acne"
+    },
+    {
+        "topic": "ADHD",
+        "url": "https://www.healthline.com/health/adhd"
+    },
+    {
+        "topic": "Allergies",
+        "url": "https://www.healthline.com/health/allergies"
+    },
+    {
+        "topic": "Antibiotics",
+        "url": "https://www.healthline.com/health/how-do-antibiotics-work"
+    },
+    {
+        "topic": "Anxiety",
+        "url": "https://www.healthline.com/health/anxiety"
+    },
+    {
+        "topic": "Appendicitis",
+        "url": "https://www.healthline.com/health/appendicitis"
+    },
+    {
+        "topic": "Aromatherapy",
+        "url": "https://www.healthline.com/health/what-is-aromatherapy"
+    },
+    {
+        "topic": "Arrhythmia",
+        "url": "https://www.healthline.com/health/arrhythmia"
+    },
+    {
+        "topic": "Arthritis",
+        "url": "https://www.healthline.com/health/arthritis"
+    },
+    {
+        "topic": "Asthma",
+        "url": "https://www.healthline.com/health/asthma"
+    },
+    {
+        "topic": "Autism",
+        "url": "https://www.healthline.com/health/autism"
+    },
+    {
+        "topic": "Autoimmune Disorders",
+        "url": "https://www.healthline.com/health/autoimmune-disorders"
+    },
+    {
+        "topic": "Back Pain",
+        "url": "https://www.healthline.com/health/back-pain"
+    },
+    {
+        "topic": "Bipolar Disorder",
+        "url": "https://www.healthline.com/health/bipolar-disorder"
+    },
+    {
+        "topic": "Birth Defects",
+        "url": "https://www.healthline.com/health/birth-defects"
+    },
+    {
+        "topic": "Blood Cell Disorders",
+        "url": "https://www.healthline.com/health/blood-cell-disorders"
+    },
+    {
+        "topic": "Brain Disorders",
+        "url": "https://www.healthline.com/health/brain-disorders"
+    },
+    {
+        "topic": "Breast Cancer",
+        "url": "https://www.healthline.com/health/breast-cancer"
+    },
+    {
+        "topic": "Bug Bites",
+        "url": "https://www.healthline.com/health/bug-bites"
+    },
+    {
+        "topic": "Burns",
+        "url": "https://www.healthline.com/health/burns"
+    },
+    {
+        "topic": "Cavities",
+        "url": "https://www.healthline.com/find-care/articles/dentists/tooth-cavities"
+    },
+    {
+        "topic": "Chest Pain",
+        "url": "https://www.healthline.com/health/chest-pain"
+    },
+    {
+        "topic": "Chlamydia",
+        "url": "https://www.healthline.com/health/std/chlamydia"
+    },
+    {
+        "topic": "Chron's Disease",
+        "url": "https://www.healthline.com/health/crohns-disease"
+    },
+    {
+        "topic": "Chronic Fatigue Syndrome (CFS)",
+        "url": "https://www.healthline.com/health/chronic-fatigue-syndrome"
+    },
+    {
+        "topic": "Cocaine",
+        "url": "https://www.healthline.com/health/cocaine"
+    },
+    {
+        "topic": "Common Cold",
+        "url": "https://www.healthline.com/health/cold-flu/cold"
+    },
+    {
+        "topic": "Constipation",
+        "url": "https://www.healthline.com/health/constipation"
+    },
+    {
+        "topic": "COPD",
+        "url": "https://www.healthline.com/health/copd"
+    },
+    {
+        "topic": "Coronary Artery Disease",
+        "url": "https://www.healthline.com/health/coronary-artery-disease"
+    },
+    {
+        "topic": "COVID-19",
+        "url": "https://www.healthline.com/coronavirus"
+    },
+    {
+        "topic": "Depression",
+        "url": "https://www.healthline.com/health/depression"
+    },
+    {
+        "topic": "Diabetes",
+        "url": "https://www.healthline.com/health/diabetes"
+    },
+    {
+        "topic": "Diarrhea",
+        "url": "https://www.healthline.com/health/diarrhea"
+    },
+    {
+        "topic": "Diet Types",
+        "url": "https://www.healthline.com/nutrition/diets"
+    },
+    {
+        "topic": "Digestive Problems",
+        "url": "https://www.healthline.com/health/digestion-problems"
+    },
+    {
+        "topic": "Dizziness",
+        "url": "https://www.healthline.com/health/dizziness"
+    },
+    {
+        "topic": "Drug Abuse",
+        "url": "https://www.healthline.com/health/drug-abuse"
+    },
+    {
+        "topic": "Ear Infections",
+        "url": "https://www.healthline.com/health/ear-infections"
+    },
+    {
+        "topic": "Eating Disorders",
+        "url": "https://www.healthline.com/nutrition/common-eating-disorders"
+    },
+    {
+        "topic": "Eczema",
+        "url": "https://www.healthline.com/health/eczema"
+    },
+    {
+        "topic": "Endometriosis",
+        "url": "https://www.healthline.com/health/endometriosis"
+    },
+    {
+        "topic": "Epilepsy",
+        "url": "https://www.healthline.com/health/epilepsy"
+    },
+    {
+        "topic": "Erectile Disfunction",
+        "url": "https://www.healthline.com/health/erectile-dysfunction"
+    },
+    {
+        "topic": "Fever",
+        "url": "https://www.healthline.com/health/fever"
+    },
+    {
+        "topic": "Fibromyalgia",
+        "url": "https://www.healthline.com/health/fibromyalgia"
+    },
+    {
+        "topic": "Fitness",
+        "url": "https://www.healthline.com/nutrition/fitness"
+    },
+    {
+        "topic": "Flu",
+        "url": "https://www.healthline.com/health/cold-flu/flu"
+    },
+    {
+        "topic": "Food Poisoning",
+        "url": "https://www.healthline.com/health/food-poisoning"
+    },
+    {
+        "topic": "Fracture",
+        "url": "https://www.healthline.com/health/fracture"
+    },
+    {
+        "topic": "Fungal Infection",
+        "url": "https://www.healthline.com/health/fungal-infection"
+    },
+    {
+        "topic": "Fungal Nail Infection",
+        "url": "https://www.healthline.com/health/fungal-nail-infection"
+    },
+    {
+        "topic": "Fungal Skin Infection",
+        "url": "https://www.healthline.com/health/fungal-skin-infection"
+    },
+    {
+        "topic": "Gallbladder",
+        "url": "https://www.healthline.com/health/gallbladder-problems-symptoms"
+    },
+    {
+        "topic": "Gallstones",
+        "url": "https://www.healthline.com/health/gallstones"
+    },
+    {
+        "topic": "Genital Herpes",
+        "url": "https://www.healthline.com/health/std/genital-herpes"
+    },
+    {
+        "topic": "GERD",
+        "url": "https://www.healthline.com/health/gerd"
+    },
+    {
+        "topic": "Gingivitis",
+        "url": "https://www.healthline.com/health/gingivitis"
+    },
+    {
+        "topic": "Gout",
+        "url": "https://www.healthline.com/health/gout"
+    },
+    {
+        "topic": "Hair Loss",
+        "url": "https://www.healthline.com/health/hair-loss"
+    },
+    {
+        "topic": "Headache",
+        "url": "https://www.healthline.com/health/headache"
+    },
+    {
+        "topic": "Hearing Loss",
+        "url": "https://www.healthline.com/health/hearing-loss"
+    },
+    {
+        "topic": "Heart Attack",
+        "url": "https://www.healthline.com/health/heart-attack"
+    },
+    {
+        "topic": "Heart Disease",
+        "url": "https://www.healthline.com/health/heart-disease"
+    },
+    {
+        "topic": "Heart Failure",
+        "url": "https://www.healthline.com/health/heart-failure"
+    },
+    {
+        "topic": "Heartburn",
+        "url": "https://www.healthline.com/health/heartburn"
+    },
+    {
+        "topic": "Hemmorrhoids",
+        "url": "https://www.healthline.com/health/hemorrhoids"
+    },
+    {
+        "topic": "Hepatitis C",
+        "url": "https://www.healthline.com/health/hepatitis-c"
+    },
+    {
+        "topic": "Hernia",
+        "url": "https://www.healthline.com/health/hernia"
+    },
+    {
+        "topic": "Hip Pain",
+        "url": "https://www.healthline.com/health/hip-pain"
+    },
+    {
+        "topic": "HIV/AIDS",
+        "url": "https://www.healthline.com/health/hiv-aids"
+    },
+    {
+        "topic": "Hives",
+        "url": "https://www.healthline.com/health/hives"
+    },
+    {
+        "topic": "Human Papillomavirus (HPV)",
+        "url": "https://www.healthline.com/health/human-papillomavirus-infection"
+    },
+    {
+        "topic": "Hypertension",
+        "url": "https://www.healthline.com/health/high-blood-pressure-hypertension"
+    },
+    {
+        "topic": "Hyperthyroidism",
+        "url": "https://www.healthline.com/health/hyperthyroidism"
+    },
+    {
+        "topic": "Hypotension",
+        "url": "https://www.healthline.com/health/hypotension"
+    },
+    {
+        "topic": "Hypothyroidism",
+        "url": "https://www.healthline.com/health/hypothyroidism/symptoms-treatments-more"
+    },
+    {
+        "topic": "Indigestion",
+        "url": "https://www.healthline.com/health/indigestion"
+    },
+    {
+        "topic": "Infant Health",
+        "url": "https://www.healthline.com/parenthood/baby"
+    },
+    {
+        "topic": "Infertility",
+        "url": "https://www.healthline.com/parenthood/infertility"
+    },
+    {
+        "topic": "Insomnia",
+        "url": "https://www.healthline.com/health/insomnia"
+    },
+    {
+        "topic": "Iron Deficiency Anemia",
+        "url": "https://www.healthline.com/health/iron-deficiency-anemia"
+    },
+    {
+        "topic": "Irritable Bowel Syndrome (IBS)",
+        "url": "https://www.healthline.com/health/irritable-bowel-syndrome"
+    },
+    {
+        "topic": "Joint Pain",
+        "url": "https://www.healthline.com/health/joint-pain"
+    },
+    {
+        "topic": "Kidney Stones",
+        "url": "https://www.healthline.com/health/kidney-stones"
+    },
+    {
+        "topic": "Leg Pain",
+        "url": "https://www.healthline.com/health/leg-pain"
+    },
+    {
+        "topic": "Lice",
+        "url": "https://www.healthline.com/health/lice-what-are-lice"
+    },
+    {
+        "topic": "Low Testosterone",
+        "url": "https://www.healthline.com/health/low-testosterone"
+    },
+    {
+        "topic": "Lung Cancer",
+        "url": "https://www.healthline.com/health/lung-cancer"
+    },
+    {
+        "topic": "Lyme Disease",
+        "url": "https://www.healthline.com/health/lyme-disease"
+    },
+    {
+        "topic": "Malaria",
+        "url": "https://www.healthline.com/health/malaria"
+    },
+    {
+        "topic": "Medicare",
+        "url": "https://www.healthline.com/medicare"
+    },
+    {
+        "topic": "Menopause",
+        "url": "https://www.healthline.com/health/menopause"
+    },
+    {
+        "topic": "Menstrual Pain",
+        "url": "https://www.healthline.com/health/painful-menstrual-periods"
+    },
+    {
+        "topic": "Menstrual Problems",
+        "url": "https://www.healthline.com/health/menstrual-problems"
+    },
+    {
+        "topic": "Mental Health",
+        "url": "https://www.healthline.com/mental-health"
+    },
+    {
+        "topic": "Migraine",
+        "url": "https://www.healthline.com/health/migraine"
+    },
+    {
+        "topic": "Mouth Ulcers",
+        "url": "https://www.healthline.com/health/mouth-ulcers"
+    },
+    {
+        "topic": "Multiple Sclerosis",
+        "url": "https://www.healthline.com/health/multiple-sclerosis"
+    },
+    {
+        "topic": "Muscle Aches",
+        "url": "https://www.healthline.com/health/muscle-aches"
+    },
+    {
+        "topic": "Musculoskeletal Disorders",
+        "url": "https://www.healthline.com/health/musculoskeletal-disorders"
+    },
+    {
+        "topic": "Nausea",
+        "url": "https://www.healthline.com/health/nausea-and-vomiting"
+    },
+    {
+        "topic": "Neck Pain",
+        "url": "https://www.healthline.com/health/neck-pain"
+    },
+    {
+        "topic": "Nosebleed",
+        "url": "https://www.healthline.com/health/nosebleed"
+    },
+    {
+        "topic": "Nutrition",
+        "url": "https://www.healthline.com/nutrition"
+    },
+    {
+        "topic": "Obesity",
+        "url": "https://www.healthline.com/health/obesity"
+    },
+    {
+        "topic": "Oral Cancer",
+        "url": "https://www.healthline.com/health/oral-cancer"
+    },
+    {
+        "topic": "Osteoarthritis",
+        "url": "https://www.healthline.com/health/osteoarthritis"
+    },
+    {
+        "topic": "Osteoporosis",
+        "url": "https://www.healthline.com/health/osteoporosis"
+    },
+    {
+        "topic": "Ovarian Cysts",
+        "url": "https://www.healthline.com/health/ovarian-cysts"
+    },
+    {
+        "topic": "Overactive Bladder",
+        "url": "https://www.healthline.com/health/overactive-bladder"
+    },
+    {
+        "topic": "Parasites",
+        "url": "https://www.healthline.com/health/parasitic-infections"
+    },
+    {
+        "topic": "Parkinson's Disease",
+        "url": "https://www.healthline.com/health/parkinsons"
+    },
+    {
+        "topic": "Personality Disorders",
+        "url": "https://www.healthline.com/health/personality-disorders"
+    },
+    {
+        "topic": "Phobias",
+        "url": "https://www.healthline.com/health/phobia-simple-specific"
+    },
+    {
+        "topic": "Pneumonia",
+        "url": "https://www.healthline.com/health/pneumonia"
+    },
+    {
+        "topic": "Pregnancy",
+        "url": "https://www.healthline.com/parenthood"
+    },
+    {
+        "topic": "Premenstrual Syndrome (PMS)",
+        "url": "https://www.healthline.com/health/premenstrual-syndrome"
+    },
+    {
+        "topic": "Probiotics",
+        "url": "https://www.healthline.com/nutrition/probiotics-101"
+    },
+    {
+        "topic": "Prostate Cancer",
+        "url": "https://www.healthline.com/health/prostate-cancer"
+    },
+    {
+        "topic": "Psoriasis",
+        "url": "https://www.healthline.com/health/psoriasis"
+    },
+    {
+        "topic": "Psoriatic Arthritis",
+        "url": "https://www.healthline.com/health/psoriatic-arthritis"
+    },
+    {
+        "topic": "Psychotherapy",
+        "url": "https://www.healthline.com/health/psychotherapy"
+    },
+    {
+        "topic": "Rheumatoid Arthritis",
+        "url": "https://www.healthline.com/health/rheumatoid-arthritis"
+    },
+    {
+        "topic": "Seizures",
+        "url": "https://www.healthline.com/health/seizures"
+    },
+    {
+        "topic": "Sex",
+        "url": "https://www.healthline.com/program/wellness#sex"
+    },
+    {
+        "topic": "Shingles",
+        "url": "https://www.healthline.com/health/shingles"
+    },
+    {
+        "topic": "Shoulder Pain",
+        "url": "https://www.healthline.com/health/chronic-pain/shoulder-pain"
+    },
+    {
+        "topic": "Sinusitis",
+        "url": "https://www.healthline.com/health/sinusitis"
+    },
+    {
+        "topic": "Skin Disorders",
+        "url": "https://www.healthline.com/health/skin-disorders"
+    },
+    {
+        "topic": "Sleep",
+        "url": "https://www.healthline.com/program/sleep"
+    },
+    {
+        "topic": "Stress",
+        "url": "https://www.healthline.com/health/stress"
+    },
+    {
+        "topic": "Stroke",
+        "url": "https://www.healthline.com/health/stroke"
+    },
+    {
+        "topic": "Teething",
+        "url": "https://www.healthline.com/health/teething"
+    },
+    {
+        "topic": "TMJ Disorders",
+        "url": "https://www.healthline.com/health/tmj-disorders"
+    },
+    {
+        "topic": "Toddler",
+        "url": "https://www.healthline.com/parenthood/toddler"
+    },
+    {
+        "topic": "Tongue Problems",
+        "url": "https://www.healthline.com/health/tongue-problems-2"
+    },
+    {
+        "topic": "Type 1 Diabetes",
+        "url": "https://www.healthline.com/health/type-1-diabetes-causes-symtoms-treatments"
+    },
+    {
+        "topic": "Type 2 Diabetes",
+        "url": "https://www.healthline.com/health/type-2-diabetes"
+    },
+    {
+        "topic": "Ulcerative Colitis",
+        "url": "https://www.healthline.com/health/ulcerative-colitis"
+    },
+    {
+        "topic": "Urinary Incontinence",
+        "url": "https://www.healthline.com/health/urinary-incontinence"
+    },
+    {
+        "topic": "Vaccinations",
+        "url": "https://www.healthline.com/health/vaccinations"
+    },
+    {
+        "topic": "Vaginal Infection",
+        "url": "https://www.healthline.com/health/vaginal-infection"
+    },
+    {
+        "topic": "Vertigo",
+        "url": "https://www.healthline.com/health/vertigo"
+    },
+    {
+        "topic": "Vitamins & Supplements",
+        "url": "https://www.healthline.com/nutrition/vitamins-and-supplements"
+    },
+    {
+        "topic": "Weight Loss",
+        "url": "https://www.healthline.com/nutrition/weight-management"
+    },
+    {
+        "topic": "Weight Management",
+        "url": "https://www.healthline.com/nutrition/weight-management"
+    },
+    {
+        "topic": "Women's Wellness",
+        "url": "https://www.healthline.com/program/wellness"
+    },
+    {
+        "topic": "Yoga",
+        "url": "https://www.healthline.com/health/fitness-exercises/definitive-guide-to-yoga"
+    }
+]
